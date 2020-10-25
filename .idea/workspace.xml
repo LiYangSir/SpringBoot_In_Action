@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ebd1d25-a439-4b23-a5fa-9b7bf30e77ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iPHmJ7xzH7ejKYULqqNm29WcXJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringBoot_17_ZooKeeper_Consumer/src/main/java/com/quguai" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.28554913" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.quguai" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA Projects\Spring Boot\SpringBoot_17_ZooKeeper_Consumer\src\main\java\com\quguai" />
+      <recent name="E:\IDEA Projects\Spring Boot\SpringBoot_16_Security\src\main\java\com\quguai\springboot16security\controller" />
+      <recent name="E:\IDEA Projects\Spring Boot\SpringBoot_16_Security\src\main\resources\templates" />
+      <recent name="E:\IDEA Projects\Spring Boot\SpringBoot_12_Cache\src\main\java\com\quguai\mapper" />
+      <recent name="E:\IDEA Projects\Spring Boot\SpringBoot_12_Cache\src\main\java\com\quguai\bean" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.quguai.bean" />
+      <recent name="com.quguai.controller" />
+      <recent name="com.quguai.service" />
+      <recent name="com.quguai.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA Projects\Spring Boot\SpringBoot_06_Exercise\src\main\resources\templates\emps" />
+      <recent name="E:\IDEA Projects\Spring Boot\SpringBoot_06_Exercise\src\main\resources\templates\error" />
+      <recent name="E:\IDEA Projects\Spring Boot\SpringBoot_06_Exercise\src\main\resources\error" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot19ActuatorApplication">
+    <configuration name="ConsumerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot_17_ZooKeeper_Consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quguai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.quguai" />
+      <option name="MAIN_CLASS_NAME" value="com.quguai.ConsumerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot14ElasticsearchApplicationTests.likeBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot_14_ElasticSearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quguai.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.quguai" />
+      <option name="MAIN_CLASS_NAME" value="com.quguai.Springboot14ElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="likeBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot14ElasticsearchApplicationTests.saveBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot_14_ElasticSearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quguai.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.quguai" />
+      <option name="MAIN_CLASS_NAME" value="com.quguai.Springboot14ElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="saveBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot15TaskApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot_15_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quguai.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.quguai" />
+      <option name="MAIN_CLASS_NAME" value="com.quguai.Springboot15TaskApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot15TaskApplicationTests.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot_15_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quguai.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.quguai" />
+      <option name="MAIN_CLASS_NAME" value="com.quguai.Springboot15TaskApplicationTests" />
+      <option name="METHOD_NAME" value="send" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_03_Config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_17_ZooKeeper_Consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_18_Eurela-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.consumeruser.ConsumerUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_18_Eureka-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.eurekaprovider.EurekaProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_18_Eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_01_HelloWorld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderTicketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_17_ZooKeeper_ProviderTicket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.ProviderTicketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuguaiSpringBootStarterAutoconfigurerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_11_Starter_AutoConfigure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.QuguaiSpringBootStarterAutoconfigurerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfulcrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_06_Exercise" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.quguai.restfulcrud.RestfulcrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_07_Data_jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.SpringBoot06DataJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot08DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_08_Data_MyBatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.SpringBoot08DataMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot09DataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_09_Data_JPA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.SpringBoot09DataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot10ListenerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_10_Listener" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.SpringBoot10ListenerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_12_Cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.SpringBoot12CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot13RabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_13_RabbitMQ" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.SpringBoot13RabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot16SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_16_Security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.springboot16security.SpringBoot16SecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootStarterTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_11_Starter_test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.SpringBootStarterTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot14ElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_14_ElasticSearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.Springboot14ElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot15TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_15_Task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.Springboot15TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot19ActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_19_Actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quguai.springboot19actuator.Springboot19ActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_02_QuickGenerate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.quguai.springboot.SpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_05_Logging" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.quguai.springboot_config.SpringbootConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConsumerApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot15TaskApplicationTests.send" />
+        <item itemvalue="JUnit.Springboot15TaskApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot14ElasticsearchApplicationTests.likeBook" />
+        <item itemvalue="JUnit.Springboot14ElasticsearchApplicationTests.saveBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ebd1d25-a439-4b23-a5fa-9b7bf30e77ad" name="Default Changelist" comment="" />
+      <created>1601802464308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601802464308</updated>
+      <workItem from="1601802465377" duration="2498000" />
+      <workItem from="1601805067611" duration="3979000" />
+      <workItem from="1601812707413" duration="2050000" />
+      <workItem from="1601866132310" duration="4000" />
+      <workItem from="1601903147985" duration="1980000" />
+      <workItem from="1601906103617" duration="1364000" />
+      <workItem from="1601979407390" duration="4892000" />
+      <workItem from="1601989994993" duration="4624000" />
+      <workItem from="1602072974692" duration="3267000" />
+      <workItem from="1602076250083" duration="1511000" />
+      <workItem from="1602481879519" duration="12572000" />
+      <workItem from="1602507816058" duration="3371000" />
+      <workItem from="1602554348222" duration="63000" />
+      <workItem from="1602572165741" duration="13918000" />
+      <workItem from="1602661560167" duration="10916000" />
+      <workItem from="1602832492843" duration="21487000" />
+      <workItem from="1602893827899" duration="1661000" />
+      <workItem from="1602895562558" duration="95000" />
+      <workItem from="1602923758232" duration="3637000" />
+      <workItem from="1603002439768" duration="17461000" />
+      <workItem from="1603198873625" duration="4792000" />
+      <workItem from="1603204259778" duration="1546000" />
+      <workItem from="1603277387478" duration="9537000" />
+      <workItem from="1603290329686" duration="743000" />
+      <workItem from="1603331152793" duration="52000" />
+      <workItem from="1603369238161" duration="5806000" />
+      <workItem from="1603439852865" duration="8283000" />
+      <workItem from="1603462850481" duration="1178000" />
+      <workItem from="1603541921147" duration="4984000" />
+      <workItem from="1603597937067" duration="1404000" />
+      <workItem from="1603616259050" duration="5324000" />
+      <workItem from="1603634654670" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="852" y="409" key="#Assign_Data_Sources" timestamp="1602852141388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="852" y="409" key="#Assign_Data_Sources/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1602852141388" />
+    <state x="432" y="203" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601804836528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="432" y="203" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1601804836528" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1603542130169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603542130169" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602494791574" />
+    <state x="530" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603369550264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603369550264" />
+    <state x="655" y="387" width="610" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602855822969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="387" width="610" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1602855822969" />
+    <state x="655" y="387" width="610" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1601903781422" />
+    <state x="599" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602925289786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="599" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1602925289786" />
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1601810518736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1601810518736" />
+    <state x="883" y="260" key="FileChooserDialogImpl" timestamp="1602833411219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="883" y="260" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1602833411219" />
+    <state x="734" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1601990355425" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1603623697342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603205806206" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603623697342" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1603623697342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="325" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603205806206" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603623697342" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1603623697342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="325" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603205806206" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603623697342" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1603623697342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="325" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603205806206" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603623697342" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="305" key="GridCell.Tab.1.bottom" timestamp="1603623697342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603027632303" />
+    <state width="1877" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603623697342" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="305" key="GridCell.Tab.1.center" timestamp="1603623697342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603027632303" />
+    <state width="1877" height="305" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603623697342" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="305" key="GridCell.Tab.1.left" timestamp="1603623697342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603027632303" />
+    <state width="1877" height="305" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603623697342" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="305" key="GridCell.Tab.1.right" timestamp="1603623697342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603027632303" />
+    <state width="1877" height="305" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603623697342" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="349" key="GridCell.Tab.2.bottom" timestamp="1603027632303">
+      <screen x="-1080" y="-371" width="1080" height="1880" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603027632303" />
+    <state width="1877" height="349" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603006704075" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="349" key="GridCell.Tab.2.center" timestamp="1603027632303">
+      <screen x="-1080" y="-371" width="1080" height="1880" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.2.center/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603027632303" />
+    <state width="1877" height="349" key="GridCell.Tab.2.center/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603006704075" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="349" key="GridCell.Tab.2.left" timestamp="1603027632303">
+      <screen x="-1080" y="-371" width="1080" height="1880" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.2.left/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603027632303" />
+    <state width="1877" height="349" key="GridCell.Tab.2.left/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603006704075" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state width="1877" height="349" key="GridCell.Tab.2.right" timestamp="1603027632303">
+      <screen x="-1080" y="-371" width="1080" height="1880" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.2.right/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1603027632303" />
+    <state width="1877" height="349" key="GridCell.Tab.2.right/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603006704075" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602511189433" />
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1601817500083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1601817500083" />
+    <state x="400" y="189" key="SettingsEditor" timestamp="1603634731401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="400" y="189" key="SettingsEditor/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603634731401" />
+    <state x="400" y="189" key="SettingsEditor/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602489045273" />
+    <state x="661" y="223" width="598" height="594" key="find.popup" timestamp="1602841792727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="223" width="598" height="594" key="find.popup/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1602841792727" />
+    <state x="370" y="166" width="1249" height="678" key="new project wizard" timestamp="1603618132108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="370" y="166" key="new project wizard/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603618132108" />
+    <state x="352" y="159" width="1249" height="678" key="new project wizard/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602076061949" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1603009600404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603009600404" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603616530600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-730" y="36" width="672" height="1226" key="search.everywhere.popup/0.0.1920.1040/-1080.-371.1080.1880@-1080.-371.1080.1880" timestamp="1602680169285" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1080.-371.1080.1880@0.0.1920.1040" timestamp="1603616530600" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1080.-417.1080.1880@0.0.1920.1040" timestamp="1602489971803" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBoot_07_Data_jdbc/src/test/java/com/quguai/SpringBoot06DataJdbcApplicationTests.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBoot_01_HelloWorld/src/main/java/com/quguai/MainApplication.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Maven/maven_repository/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/cache/CacheAutoConfiguration.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.alibaba.druid.pool.DruidDataSource" memberName="filters" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="imports[1]" />
+        <watch expression="imports[2]" />
+        <watch expression="imports[3]" />
+        <watch expression="imports[4]" />
+        <watch expression="imports[5]" />
+        <watch expression="imports[6]" />
+        <watch expression="imports[7]" />
+        <watch expression="imports[8]" />
+        <watch expression="imports[9]" />
+        <watch expression="imports[9]" language="JAVA" />
+        <watch expression="imports[9]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+# Project exclude paths
+/SpringBoot_01_HelloWorld/target/
+/SpringBoot_02_QuickGenerate/target/
+/SpringBoot_03_Config/target/
+/SpringBoot_04_Config_2/target/
+/SpringBoot_05_Logging/target/
+/SpringBoot_06_Exercise/target/
+/SpringBoot_07_Data_jdbc/target/
+/SpringBoot_08_Data_MyBatis/target/
+/SpringBoot_09_Data_JPA/target/
+/SpringBoot_10_Listener/target/
+/SpringBoot_11_Starter/target/
+/SpringBoot_11_Starter_AutoConfigure/target/
+/SpringBoot_11_Starter_test/target/
+/SpringBoot_12_Cache/target/
+/SpringBoot_13_RabbitMQ/target/
+/SpringBoot_14_ElasticSearch/target/
+/SpringBoot_15_Task/target/
+/SpringBoot_16_Security/target/
+/SpringBoot_17_ZooKeeper_Consumer/target/
+/SpringBoot_17_ZooKeeper_ProviderTicket/target/
+/SpringBoot_18_Eureka-provider/target/
+/SpringBoot_18_Eureka-server/target/
+/SpringBoot_18_Eurela-user/target/
+/SpringBoot_19_Actuator/target/

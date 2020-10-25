@@ -1,0 +1,11 @@
+2020-10-06 21:37:14.880  INFO 3396 --- [main] c.q.s.SpringbootConfigApplicationTests   : Starting SpringbootConfigApplicationTests on Tea-Urn with PID 3396 (started by LiYangSir in E:\IDEA Projects\Spring Boot\SpringBoot_05_Logging)
+2020-10-06 21:37:14.882 DEBUG 3396 --- [main] c.q.s.SpringbootConfigApplicationTests   : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-06 21:37:14.882  INFO 3396 --- [main] c.q.s.SpringbootConfigApplicationTests   : No active profile set, falling back to default profiles: default
+2020-10-06 21:37:15.635  INFO 3396 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-06 21:37:15.822  INFO 3396 --- [main] c.q.s.SpringbootConfigApplicationTests   : Started SpringbootConfigApplicationTests in 1.2 seconds (JVM running for 2.015)
+2020-10-06 21:37:15.948 TRACE 3396 --- [main] c.q.s.SpringbootConfigApplicationTests   : Hello World
+2020-10-06 21:37:15.949 DEBUG 3396 --- [main] c.q.s.SpringbootConfigApplicationTests   : Hello World
+2020-10-06 21:37:15.949  INFO 3396 --- [main] c.q.s.SpringbootConfigApplicationTests   : Hello World
+2020-10-06 21:37:15.949  WARN 3396 --- [main] c.q.s.SpringbootConfigApplicationTests   : Hello World
+2020-10-06 21:37:15.949 ERROR 3396 --- [main] c.q.s.SpringbootConfigApplicationTests   : Hello World
+2020-10-06 21:37:15.962  INFO 3396 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

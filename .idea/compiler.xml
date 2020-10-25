@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="quguai-spring-boot-starter-autoconfigure" />
+        <module name="SpringBoot_09_Data_JPA" />
+        <module name="SpringBoot_11_Starter_test" />
+        <module name="SpringBoot_10_Listener" />
+        <module name="SpringBoot_13_RabbitMQ" />
+        <module name="SpringBoot_01_HelloWorld" />
+        <module name="SpringBoot_18_Eureka-server" />
+        <module name="SpringBoot_08_Data_MyBatis" />
+        <module name="SpringBoot_17_ZooKeeper_Consumer" />
+        <module name="SpringBoot_19_Actuator" />
+        <module name="SpringBoot_06_Exercise" />
+        <module name="SpringBoot_17_ZooKeeper_ProviderTicket" />
+        <module name="SpringBoot_05_Logging" />
+        <module name="SpringBoot_16_Security" />
+        <module name="SpringBoot_18_Eureka-provider" />
+        <module name="SpringBoot_18_Eurela-user" />
+        <module name="SpringBoot_03_Config" />
+        <module name="SpringBoot_07_Data_jdbc" />
+        <module name="SpringBoot_12_Cache" />
+        <module name="SpringBoot_14_ElasticSearch" />
+        <module name="SpringBoot_15_Task" />
+        <module name="SpringBoot_11_Starter" />
+        <module name="SpringBoot_02_QuickGenerate" />
+        <module name="SpringBoot_04_Config_2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="quguai-spring-boot-starter-autoconfigure" target="1.8" />
+      <module name="SpringBoot_01_HelloWorld" target="1.8" />
+      <module name="SpringBoot_02_QuickGenerate" target="1.8" />
+      <module name="SpringBoot_03_Config" target="1.8" />
+      <module name="SpringBoot_04_Config_2" target="1.8" />
+      <module name="SpringBoot_05_Logging" target="1.8" />
+      <module name="SpringBoot_06_Exercise" target="1.8" />
+      <module name="SpringBoot_07_Data_jdbc" target="1.8" />
+      <module name="SpringBoot_08_Data_MyBatis" target="1.8" />
+      <module name="SpringBoot_09_Data_JPA" target="1.8" />
+      <module name="SpringBoot_10_Listener" target="1.8" />
+      <module name="SpringBoot_11_Starter" target="1.8" />
+      <module name="SpringBoot_11_Starter_AutoConfigure" target="1.8" />
+      <module name="SpringBoot_11_Starter_test" target="1.8" />
+      <module name="SpringBoot_12_Cache" target="1.8" />
+      <module name="SpringBoot_13_RabbitMQ" target="1.8" />
+      <module name="SpringBoot_14_ElasticSearch" target="1.8" />
+      <module name="SpringBoot_15_Task" target="1.8" />
+      <module name="SpringBoot_16_Security" target="1.8" />
+      <module name="SpringBoot_17_ZooKeeper_Consumer" target="1.8" />
+      <module name="SpringBoot_17_ZooKeeper_ProviderTicket" target="1.8" />
+      <module name="SpringBoot_18_Eureka-provider" target="1.8" />
+      <module name="SpringBoot_18_Eureka-server" target="1.8" />
+      <module name="SpringBoot_18_Eurela-user" target="1.8" />
+      <module name="SpringBoot_19_Actuator" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBoot_01_HelloWorld" options="-parameters" />
+      <module name="SpringBoot_02_QuickGenerate" options="-parameters" />
+      <module name="SpringBoot_03_Config" options="-parameters" />
+      <module name="SpringBoot_04_Config_2" options="-parameters" />
+      <module name="SpringBoot_05_Logging" options="-parameters" />
+      <module name="SpringBoot_06_Exercise" options="-parameters" />
+      <module name="SpringBoot_07_Data_jdbc" options="-parameters" />
+      <module name="SpringBoot_08_Data_MyBatis" options="-parameters" />
+      <module name="SpringBoot_09_Data_JPA" options="-parameters" />
+      <module name="SpringBoot_10_Listener" options="-parameters" />
+      <module name="SpringBoot_11_Starter_AutoConfigure" options="-parameters" />
+      <module name="SpringBoot_11_Starter_test" options="-parameters" />
+      <module name="SpringBoot_12_Cache" options="-parameters" />
+      <module name="SpringBoot_13_RabbitMQ" options="-parameters" />
+      <module name="SpringBoot_14_ElasticSearch" options="-parameters" />
+      <module name="SpringBoot_15_Task" options="-parameters" />
+      <module name="SpringBoot_16_Security" options="-parameters" />
+      <module name="SpringBoot_17_ZooKeeper_Consumer" options="-parameters" />
+      <module name="SpringBoot_17_ZooKeeper_ProviderTicket" options="-parameters" />
+      <module name="SpringBoot_18_Eureka-provider" options="-parameters" />
+      <module name="SpringBoot_18_Eureka-server" options="-parameters" />
+      <module name="SpringBoot_18_Eurela-user" options="-parameters" />
+      <module name="SpringBoot_19_Actuator" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="quguai-spring-boot-starter-autoconfigure" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+person:
+  lastName: liyang
+  age: 8
+  birth: 2017/12/12
+  map: {k1: v1, k2: v2}
+  friends:
+    - lisi
+    - zhangliu
+  dog:
+    name: 小狗
+    age: 12
